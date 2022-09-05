@@ -1,1 +1,1 @@
-$ echo '!/vmlinux*' >arch/foo/kernel/.gitignore
+*.pyc
